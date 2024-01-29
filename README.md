@@ -9,13 +9,13 @@
 
 - 🌱 I’m currently learning **Swift UI**
 
-- 👨‍💻 All of my projects are available at [priyamkumardas.github.io/](priyamkumardas.github.io/)
+- 👨‍💻 All of my projects are available at [priyamkumardas.github.io/](https://priyamkumardas.github.io/)
 
 - 💬 Ask me about **Angular, Spring Boot**
 
 - 📫 How to reach me **priyamkumardas@gmail.com**
 
-- 📄 Know about my experiences [priyamkumardas.github.io/priyam_kumar_das_Deedy_CV.pdf](priyamkumardas.github.io/priyam_kumar_das_Deedy_CV.pdf)
+- 📄 Know about my experiences [priyamkumardas.github.io/CV.pdf](https://priyamkumardas.github.io/priyam_kumar_das_Deedy_CV.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
