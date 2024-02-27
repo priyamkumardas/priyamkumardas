@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [priyamkumardas.github.io/](https://priyamkumardas.github.io/)
 
-- 💬 Ask me about **Angular, Spring Boot**
+- 💬 Ask me about **Angular, React, Spring Boot, Node.js**
 
 - 📫 How to reach me **priyamkumardas@gmail.com**
 
