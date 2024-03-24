@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **priyamkumardas@gmail.com**
 
-- 📄 Know about my experiences [priyamkumardas.github.io/CV.pdf](https://priyamkumardas.github.io/priyam_kumar_das_Deedy_CV.pdf)
+- 📄 Know about my experiences [priyamkumardas.github.io/CV.pdf](https://priyamkumardas.github.io/PriyamKumarDas.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
